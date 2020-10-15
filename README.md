@@ -1,6 +1,8 @@
 # pHAT FLIP
 
-![pHAT FLIP](/img/phat-flip.gif)
+<p align="center">
+    <img alt="pHAT FLIP" src="/img/phat-flip.gif" width="600">
+</p>
 
 pHAT FLIP takes your Raspberry Pi HAT or 2 pHATs and rotates them 90 degrees in either direction. Available as a solder yourself kit, pHAT FLIP is reversible and includes BCM pin numbering on both sides for easy identification.
 
