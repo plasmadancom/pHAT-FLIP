@@ -19,7 +19,6 @@ pHAT FLIP is fully compatible with all **40-way** Raspberry Pi models and clones
 
 | Device Model | Compatibility |
 | --- | :---: |
-| Raspberry Pi Model A/B | &#x274c; |
 | Raspberry Pi 1 Model A+/B/B+ | &#x2714;&#xFE0F; |
 | Raspberry Pi 2 Model B | &#x2714;&#xFE0F; |
 | Raspberry Pi 3 Model B/B+ | &#x2714;&#xFE0F; |
