@@ -4,15 +4,14 @@
     <img alt="pHAT FLIP" src="/img/phat-flip.gif" width="600">
 </p>
 
-pHAT FLIP takes your Raspberry Pi HAT or 2 pHATs and rotates them 90 degrees in either direction. Available as a solder yourself kit, pHAT FLIP is reversible and includes BCM pin numbering on both sides for easy identification.
+pHAT FLIP takes a Raspberry Pi HAT or 2 pHATs and rotates them 90 degrees in either direction. Available as a solder yourself kit, pHAT FLIP is reversible and includes BCM pin numbering on both sides for easy identification.
 
 ## Features
 * Reversible board can rotate left or right
 * Mount 1 HAT or 2 pHATs
 * BCM pin numbering
-* Gold flash plated contacts
 * UL, CE and RoHS (lead free) compliant
-* Compatible with [HAT RACK](https://github.com/plasmadancom/HAT-RACK) boards
+* Compatible with our [HAT RACK](https://github.com/plasmadancom/HAT-RACK) boards
 
 ## Device Compatibility
 
@@ -43,7 +42,7 @@ We have released an interactive [3D model](https://grabcad.com/library/phat-flip
 
 <p align="center">
     <a href="https://raw.githubusercontent.com/plasmadancom/pHAT-FLIP/master/img/phat-flip-v1.0-dimensions.svg">
-        <img alt="Mechanical Drawing" src="/img/phat-flip-v1.0-dimensions.svg" width="600">
+        <img alt="Mechanical Drawing" src="/img/phat-flip-v1.0-dimensions.svg" width="500">
     </a>
 </p>
 
