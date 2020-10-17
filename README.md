@@ -37,7 +37,8 @@ pHAT FLIP is fully compatible with all **40-way** Raspberry Pi models and clones
 
 We have released an interactive [3D model](https://grabcad.com/library/phat-flip-1) which you can use in your designs.
 
-## Mechanical
+## Dimensions
+
 
 <p align="center">
     <a href="https://raw.githubusercontent.com/plasmadancom/pHAT-FLIP/master/img/phat-flip-v1.0-dimensions.svg">
